@@ -1,0 +1,1 @@
+funcionalidade de marcar e desmarcar favoritos
